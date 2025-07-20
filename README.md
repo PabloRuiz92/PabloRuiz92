@@ -23,9 +23,18 @@ I'm a web development student with a background in customer service, content mod
 
 ### Here are some of my certifications:
 - [HTML5: Fundamentos Web](https://www.educacionit.com/perfil/pablo-agustin-ruiz-396151/certificado/41980?_gl=1*2e9q1c*_ga*MTc2NTgxMzAxNC4xNzUzMDEzMTg2*_ga_R8GR8LL2B8*czE3NTMwMTMxODYkbzEkZzEkdDE3NTMwMTgwNDEkajM2JGwxJGgxNDA2MTA4MTY5)
+![Profile Pic](./assets/Certificado-HTML5_-Fundamentos-Web-EducaciónIT.jpeg)
+
 - [Introducción a la programación en Javascript](https://www.educacionit.com/perfil/pablo-agustin-ruiz-396151/certificado/40122?_gl=1*dduyoi*_ga*MTc2NTgxMzAxNC4xNzUzMDEzMTg2*_ga_R8GR8LL2B8*czE3NTMwMTMxODYkbzEkZzEkdDE3NTMwMTg0MTAkajMyJGwxJGgxNDA2MTA4MTY5)
+![Profile Pic](./assets/Certificado-Introducción-a-la-programación-en-Javascript-EducaciónIT.jpeg)
+
 - [Programación Web en PHP y MySQL](https://www.educacionit.com/perfil/pablo-agustin-ruiz-396151/certificado/40190?_gl=1*1wde5qc*_ga*MTc2NTgxMzAxNC4xNzUzMDEzMTg2*_ga_R8GR8LL2B8*czE3NTMwMTMxODYkbzEkZzEkdDE3NTMwMTg1NDAkajYwJGwxJGgxNDA2MTA4MTY5)
+![Profile Pic](./assets/Certificado-Programación-Web-en-PHP-y-MySQL-EducaciónIT.jpeg)
+
 - [Introducción a Bases de Datos y SQL](https://www.educacionit.com/perfil/pablo-agustin-ruiz-396151/certificado/41977?_gl=1*1xfwh38*_ga*MTc2NTgxMzAxNC4xNzUzMDEzMTg2*_ga_R8GR8LL2B8*czE3NTMwMTMxODYkbzEkZzEkdDE3NTMwMTg2NDIkajYwJGwxJGgxNDA2MTA4MTY5)
+![Profile Pic](./assets/Certificado-Introducción-a-Bases-de-Datos-y-SQL-EducaciónIT.jpeg)
+
 - [Introducción al Paradigma de Objetos](https://www.educacionit.com/perfil/pablo-agustin-ruiz-396151/certificado/40125?_gl=1*11yat5m*_ga*MTc2NTgxMzAxNC4xNzUzMDEzMTg2*_ga_R8GR8LL2B8*czE3NTMwMTMxODYkbzEkZzEkdDE3NTMwMTg2OTAkajEyJGwxJGgxNDA2MTA4MTY5)
+![Profile Pic](./assets/Certificado-Introducción-al-Paradigma-de-Objetos-EducaciónIT.jpeg)
 
 ---
